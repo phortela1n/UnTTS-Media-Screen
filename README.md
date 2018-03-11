@@ -1,7 +1,5 @@
 # UNTTS MEDIA SCREEN
 
-## Aplicación
-[Proximamente] 
 
 ## MockUp 
 
