@@ -7,7 +7,7 @@
 
 ## VIEWS
 
-Check here
+
 __[Click here](https://github.com/phortela1n/UnTTS-Media-Screen/blob/develop/design/views/README.md)__ to check it
 
 ## DATA MODEL
